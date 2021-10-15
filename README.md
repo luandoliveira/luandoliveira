@@ -1,7 +1,7 @@
 ### Oi, eu sou Luan! ✌️ 
 
 
-[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)](LuanOliveira#7248)
+[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)](https://discord.com/channels/LuanOliveira#7248)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-oliveira-274297161)
 
 ### Sou um desenvolvedor Back-End em Manaus-AM.
