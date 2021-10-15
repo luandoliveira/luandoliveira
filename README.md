@@ -17,6 +17,8 @@
 <img align = "center" alt= "php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align = "center" alt= "laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img align = "center" alt= "mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
+</div></br>
+
+### Fascinado por tecnologia e sempre disposto para novos desafios!
 
 
