@@ -27,4 +27,4 @@
 <img align = "center" alt= "mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br>
 
-### Fascinado por tecnologia e sempre disposto para novos desafios!
+### Fascinado por tecnologia, música e games e sempre disposto para novos desafios!
