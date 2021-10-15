@@ -2,7 +2,6 @@
 
 
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)](https://discord.com/channels/Luan%20Oliveira#7248)
-[![Blog](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white/)](U02AM39KX34)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-oliveira-274297161)
 
 
