@@ -1,4 +1,6 @@
 ### Oi, eu sou Luan! ✌️ 
+### Este é o meu repositório pessoal e profissional. Fique a vontade para dar uma olhada! 🖥️ 
+
 
 
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)](https://discord.com/channels/Luan%20Oliveira#7248)
