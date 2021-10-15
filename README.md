@@ -4,8 +4,9 @@
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)](https://discord.com/channels/Luan%20Oliveira#7248)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-oliveira-274297161)
 
-
 ![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luandoliveira&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luandoliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias do dia a dia
 
