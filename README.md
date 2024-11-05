@@ -7,7 +7,7 @@
 ### Sou um desenvolvedor Back-End em Manaus-AM.
 
 - 👨‍🎓  &nbsp; Sou graduando em Engenharia da Computação pela [UNINORTE](https://www.uninorte.com.br/).
-- 👨‍💻 &nbsp; Atualmente trabalho na [SEDUC-AM](http://www.seduc.am.gov.br/) com Desenvolvedor Back-End.
+- 👨‍💻 &nbsp; Atualmente trabalho na [SEDUC-AM](http://www.seduc.am.gov.br/) como Analista de Sistemas.
 - 📖 &nbsp; Estudando e praticando sobre Backend PHP, JavaScript.
 
 
