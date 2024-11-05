@@ -1,38 +1,37 @@
 ### Oi, eu sou Luan! ✌️ 
+### Fascinado por tecnologia, música e games! Sempre disposto para novos desafios!
+<!-- [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)](https://discord.com/channels/LuanOliveira#7248)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-de-oliveira-274297161) -->
 
+### Sou um desenvolvedor em Manaus-AM.
 
-[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white/)](https://discord.com/channels/LuanOliveira#7248)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-oliveira-274297161)
+- 👨‍🎓  &nbsp; Engenheiro da Computação
+- 👨‍💻 &nbsp; Atualmente trabalho como Analista de Sistemas.
+- 📖 &nbsp; Trabalhando com Laravel, NodeJs e NextJs.
 
-### Sou um desenvolvedor Back-End em Manaus-AM.
+<br>
 
-- 👨‍🎓  &nbsp; Sou graduando em Engenharia da Computação pela [UNINORTE](https://www.uninorte.com.br/).
-- 👨‍💻 &nbsp; Atualmente trabalho na [SEDUC-AM](http://www.seduc.am.gov.br/) como Analista de Sistemas.
-- 📖 &nbsp; Estudando e praticando sobre Backend PHP, JavaScript.
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luandoliveira&layout=compact&custom_title=Linguagens%20Mais%20Usadas&locale=pt-br&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![Luan GitHub stats](https://github-readme-stats.vercel.app/api?username=luandoliveira&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luandoliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+##
 ### Tecnologias do dia a dia
 
-<div style="display: inline_block;"><br/>
-<img align = "center" alt= "html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align = "center" alt= "css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align = "center" alt= "js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align = "center" alt= "bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align = "center" alt= "php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align = "center" alt= "laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img align = "center" alt= "mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div><br>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luan-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Luan-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Luan-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Luan-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Luan-pgsql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Luan-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+ ##
+<div> 
+ <a href="https://discord.com/channels/LuanOliveira#7248" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:luanf.d.silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luan-de-oliveira-274297161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-### Habilidades desenvolvidas em outras tecnologias
-<div style="display: inline_block;"><br/>
-<img align = "center" alt= "python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img align = "center" alt= "c" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img align = "center" alt= "excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img align = "center" alt= "linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img align = "center" alt= "windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></div><br>
-
-### Fascinado por tecnologia, música e games! Sempre disposto para novos desafios!
