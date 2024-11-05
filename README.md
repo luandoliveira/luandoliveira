@@ -6,8 +6,8 @@
 ### Sou um desenvolvedor em Manaus-AM.
 
 - 👨‍🎓  &nbsp; Engenheiro da Computação
-- 👨‍💻 &nbsp;  Analista de Sistemas.
-- 📖 &nbsp; Trabalhando com Laravel, NodeJs e NextJs.
+- 👨‍💻 &nbsp;  Analista de Sistemas
+- 📖 &nbsp; Trabalhando com Laravel, NodeJs e NextJs
 
 <br>
 
