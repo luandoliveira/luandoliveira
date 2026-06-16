@@ -9,11 +9,11 @@ Construindo produtos escaláveis, integrações inteligentes e experiências que
 <br>
 
 <a href="mailto:luanf.d.silva@gmail.com">
-<img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/luandoliveiras/](https://www.linkedin.com/in/luandoliveiras/)">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/luandoliveiras/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
