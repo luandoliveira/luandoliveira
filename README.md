@@ -12,12 +12,8 @@ Construindo produtos escaláveis, integrações inteligentes e experiências que
 <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/luan-de-oliveira-274297161/">
+<a href="[https://www.linkedin.com/in/luan-de-oliveira-274297161/](https://www.linkedin.com/in/luandoliveiras/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://discord.com/users/LuanOliveira">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
