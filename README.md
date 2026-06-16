@@ -12,7 +12,7 @@ Construindo produtos escaláveis, integrações inteligentes e experiências que
 <img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/luan-de-oliveira-274297161/](https://www.linkedin.com/in/luandoliveiras/)">
+<a href="[https://www.linkedin.com/in/luandoliveiras/](https://www.linkedin.com/in/luandoliveiras/)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
