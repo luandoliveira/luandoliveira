@@ -1,76 +1,100 @@
-### Oi, eu sou o Luan! 👋
+<div align="center">
 
-🎮 Apaixonado por tecnologia, música e games.  
-👨‍💻 Engenheiro da Computação, Desenvolvedor e Analista de Sistemas.  
-🚀 Especialista em Back-end com experiência Full Stack — criando soluções escaláveis e inteligentes!
+# 👋 Olá, eu sou o Luan Oliveira
 
-Sempre pronto para encarar novos desafios e transformar ideias em produtos de impacto.
+### Back-end Engineer • Full Stack Developer • Engenheiro da Computação
 
----
+Construindo produtos escaláveis, integrações inteligentes e experiências que resolvem problemas reais.
 
-### 👨‍💻 Sobre mim
+<br>
 
-Sou **Engenheiro da Computação (2021)** e atuo como **Analista de Sistemas**, liderando equipes de back-end em projetos desafiadores. Tenho experiência full stack, participando de todas as etapas do ciclo de vida do software — desde o levantamento de requisitos até a entrega e homologação.
+<a href="mailto:luanf.d.silva@gmail.com">
+<img src="https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Minhas principais frentes de atuação:**
-- Desenvolvimento web com foco em **performance, escalabilidade e boas práticas**
-- Liderança técnica e trabalho em equipe multidisciplinar
-- Integrações entre sistemas, automações e dashboards de BI
+<a href="https://www.linkedin.com/in/luan-de-oliveira-274297161/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="https://discord.com/users/LuanOliveira">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-### 🚀 Tecnologias que domino
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="30" alt="Laravel"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git"/>
-</p>
+</div>
 
 ---
 
-### 📊 Github Stats
+## 🚀 Sobre mim
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luandoliveira&show_icons=true&theme=dark&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luandoliveira&layout=compact&theme=dark&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas" />
-</p>
+Sou **Engenheiro da Computação** e atuo como **Analista de Sistemas e Desenvolvedor Full Stack**, com foco principal em **Back-end, arquitetura de aplicações e integrações**.
 
----
+Tenho experiência participando de todo o ciclo de desenvolvimento — desde levantamento de requisitos até entrega, homologação e sustentação de sistemas com alto volume de acessos.
 
-### 🌟 Alguns projetos que já participei
+Hoje meu foco está em:
 
-- 🔐 Sistemas de controle de acesso e gestão de permissões  
-- 📲 Plataformas web e mobile voltadas para processos seletivos e atendimento  
-- 🌍 Módulos de apoio técnico com geolocalização e registro de atividades  
-- 📈 Painéis de BI para indicadores, gestão de equipes, comissões e recursos  
-- 🔗 Integrações entre sistemas internos e externos, otimizando fluxos e automações  
-- ⚙️ Sistemas robustos com alta demanda de acessos e processos simultâneos  
+⚙️ Construção de aplicações escaláveis
+🔗 APIs e integrações entre sistemas
+📊 Dados, automações e dashboards
+🚀 Performance e experiência do usuário
+👥 Colaboração e liderança técnica
 
 ---
 
-### 📫 Vamos nos conectar?
+## 🛠 Stack Principal
 
-<p align="center">
-  <a href="https://discord.com/users/LuanOliveira#7248" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:luanf.d.silva@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/luan-de-oliveira-274297161/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,ts,js,react,nextjs,mysql,postgres,docker,git"/>
+
+</div>
 
 ---
 
-> 💡 *"Sempre focado em transformar ideias em soluções inteligentes e escaláveis."*
+## 💼 Experiência prática
+
+### 🔐 Sistemas corporativos
+
+Controle de acesso, autenticação e gestão de permissões.
+
+### 📲 Plataformas web e mobile
+
+Produtos para processos seletivos, atendimento e operação.
+
+### 🌍 Integrações e automações
+
+Integração entre sistemas internos e externos com redução de processos manuais.
+
+### 📈 Dados e BI
+
+Dashboards para indicadores, gestão operacional e tomada de decisão.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=luandoliveira&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luandoliveira&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 📌 Atualmente estudando
+
+* Arquitetura de software
+* Observabilidade e monitoramento
+* Engenharia de plataformas
+* Escalabilidade de aplicações
+
+---
+
+<div align="center">
+
+### Vamos construir algo incrível? 🚀
+
+*"Transformando ideias em produtos escaláveis e soluções inteligentes."*
+
+</div>
